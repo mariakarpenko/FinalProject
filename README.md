@@ -44,7 +44,7 @@ https://flint-suede-c39.notion.site/89563758e36b4a3cafe31ff56acb825b?pvs=4
   8. Бессмысленный набор символов
   9. Более 500 символов
 
-Для вывода результатов тестирования с помощью allure нужно ввести в терминале:
+#### Для вывода результатов тестирования с помощью allure нужно ввести в терминале:
 Windows 10:
-    - python -m pytest --alluredir allure-result
-    - allure serve allure-result
+- python -m pytest --alluredir allure-result
+- allure serve allure-result
